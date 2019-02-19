@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rsteinkopfjr/rsteinkopf-portfolio/issues"
   },
-  "homepage": "https://github.com/rsteinkopfjr/rsteinkopf-portfolio#readme"
+  "homepage": "https://github.com/rsteinkopfjr/rsteinkopf-portfolio#readme",
+  "dependencies": {
+    "jshint": "^2.10.1"
+  }
 }
