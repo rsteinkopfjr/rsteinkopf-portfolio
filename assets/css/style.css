@@ -71,6 +71,9 @@ li.nav-item.active:before {
     color: #708D81;
     /* border-bottom: 0.1vh solid #708D81; */
 }
+.contact-form {
+    clear: left;
+}
 
 /* No media query for `xs` since this is the default in Bootstrap */
 /* Small devices (landscape phones, 576px and up) */
