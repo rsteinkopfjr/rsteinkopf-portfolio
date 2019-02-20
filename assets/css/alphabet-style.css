@@ -1,0 +1,151 @@
+img.a {
+    width: 30px;
+    height:40px;
+}
+img.b {
+    width: 30px;
+    height:40px;
+}
+img.c {
+    width: 30px;
+    height:40px;
+}
+img.d {
+    width: 30px;
+    height:40px;
+}
+img.e {
+    width: 30px;
+    height:40px;
+}
+img.f {
+    width: 30px;
+    height:40px;
+}
+img.g {
+    width: 30px;
+    height:40px;
+}
+img.h {
+    width: 30px;
+    height:40px;
+}
+img.i {
+    width: 14px;
+    height:40px;
+}
+img.j {
+    width: 30px;
+    height:40px;
+}
+img.k {
+    width: 30px;
+    height:40px;
+}
+img.l {
+    width: 30px;
+    height:40px;
+}
+img.m {
+    width: 30px;
+    height:40px;
+}
+img.n {
+    width: 30px;
+    height:40px;
+}
+img.o {
+    width: 30px;
+    height:40px;
+}
+img.p {
+    width: 30px;
+    height:40px;
+}
+img.q {
+    width: 30px;
+    height:40px;
+}
+img.r {
+    width: 30px;
+    height:40px;
+}
+img.s {
+    width: 30px;
+    height:40px;
+}
+img.t {
+    width: 30px;
+    height:40px;
+}
+img.u {
+    width: 30px;
+    height:40px;
+}
+img.v {
+    width: 30px;
+    height:40px;
+}
+img.w {
+    width: 30px;
+    height:40px;
+}
+img.x {
+    width: 30px;
+    height:40px;
+}
+img.y {
+    width: 30px;
+    height:40px;
+}
+img.z {
+    width: 30px;
+    height:40px;
+}
+img.comma {
+    width: 10px;
+    height:40px;
+    margin-top:10px;
+}
+img.apos {
+    width: 10px;
+    height:40px;
+    margin-bottom: 10px;
+}
+img.excla {
+    width: 30px;
+    height:40px;
+}
+img.ques {
+    width: 30px;
+    height:40px;
+}
+img.dollar {
+    width: 30px;
+    height:40px;
+}
+img.space {
+    width: 10px;
+    height:40px;
+}
+
+/* No media query for `xs` since this is the default in Bootstrap */
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
