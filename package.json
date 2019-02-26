@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rsteinkopfjr/rsteinkopf-portfolio#readme",
   "dependencies": {
+    "animate.css": "^3.7.0",
     "jshint": "^2.10.1"
   }
 }
