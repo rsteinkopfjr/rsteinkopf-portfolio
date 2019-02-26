@@ -6,34 +6,15 @@ body {
     background-color: #F4D58D;
     margin-bottom: 40px;
 }
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 40px;
-    background-color: white;
-}
-nav.navbar {
-    height: 40px;
-    justify-content: center;
-    background: transparent;
-}
-a.navbar-brand {
-    font-size: 13px;
+header {
+    margin-top: 2vh;
 }
 .jumbotron {
     background-color: transparent;
 
 }
-.custom-jumbotron {
-    margin-top: 100px;
-}
-header {
-    margin-top: 2vh;
-}
-div.statements {
-    text-align: center;
-}
+
+/* Header CSS */
 ul.nav {
     justify-content: center;
 }
@@ -49,7 +30,7 @@ a.nav-link {
     text-transform: uppercase;
     transition: all .3s ease-in-out;
 }
-a.nav-link.active {
+a.nav-link.active-nav {
     color: #001427;
     border-bottom: 0.1vh solid #001427;
 }
@@ -64,19 +45,19 @@ a.nav-link.separator {
     color: #001427;
 }
 li.nav-item,
-li.nav-item.active {
+li.nav-item.active-nav {
     background: transparent;
     outline: none;
     position: relative;
     overflow: hidden;
 }
 li.nav-item:hover a,
-li.nav-item.active:hover a {
+li.nav-item.active-nav:hover a {
     opacity: 0;
     transform: translate(0,0);
 }
 li.nav-item:hover:before,
-li.nav-item.active:hover:before {
+li.nav-item.active-nav:hover:before {
     opacity: 1;
     transform: translate(0,0);
 }
@@ -94,12 +75,34 @@ li.nav-item:before {
     transform: translate(0,100%);
     transition: all .3s ease-in-out;
 }
-li.nav-item.active:before {
+li.nav-item.active-nav:before {
     color: #708D81;
     /* border-bottom: 0.1vh solid #708D81; */
 }
-.contact-form {
-    clear: left;
+
+/* Footer CSS */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: white;
+}
+nav.navbar {
+    height: 40px;
+    justify-content: center;
+    background: transparent;
+}
+a.navbar-brand {
+    font-size: 13px;
+}
+
+/* Carousel CSS */
+.jumbotron-home {
+    margin-top: 100px;
+}
+.carousel-item {
+    text-align: center;
 }
 
 /* No media query for `xs` since this is the default in Bootstrap */

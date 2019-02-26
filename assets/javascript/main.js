@@ -7,3 +7,7 @@ $(".title-item").mouseenter(function(){
     var newletter = this.name;
     this.src = "assets/alphabet/" + newletter + "-full.png";
 });
+
+$(".carousel").carousel({
+    interval: 5000
+})
