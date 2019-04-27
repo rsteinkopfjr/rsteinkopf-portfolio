@@ -9,5 +9,6 @@ $(".title-item").mouseenter(function(){
 });
 
 $(".carousel").carousel({
-    interval: 3000
+    interval: 4500,
+    pause: false
 });

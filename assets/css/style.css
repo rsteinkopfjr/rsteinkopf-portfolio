@@ -5,6 +5,7 @@ html {
 body {
     background-color: #F4D58D;
     margin-bottom: 40px;
+    color: #001427;
 }
 header {
     margin-top: 2vh;
@@ -98,11 +99,10 @@ a.navbar-brand {
 }
 
 /* Carousel CSS */
-.jumbotron-home {
-    margin-top: 100px;
-}
 .carousel-item {
     text-align: center;
+    height: 250px;
+    margin-top: 100px;
 }
 
 /* No media query for `xs` since this is the default in Bootstrap */
